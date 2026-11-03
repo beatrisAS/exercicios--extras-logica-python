@@ -304,13 +304,3 @@ A área do círculo é: 12.57
 **Beatris Antunes Silva**
 Estudante de Análise de Dados · Bootcamp de Análise de Dados
 
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-181717?logo=github)](https://github.com/<seu-usuario>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<seu-perfil>)
-
----
-
-<div align="center">
-
-⭐ Se este repositório foi útil, deixe uma estrela!
-
-</div>
